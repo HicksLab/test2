@@ -1,7 +1,7 @@
 # test2
-test description
+test2 description
 
-https://github.com/ewmcc/test
+https://github.com/hickslab/test2
 
 | header1 | header2 |
 | --- | --- |
